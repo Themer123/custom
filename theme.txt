@@ -1,0 +1,8 @@
+
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Ocean/Ocean.theme.css');
+
+:root {
+  --ocean-bg: url(https://cdn.discordapp.com/attachments/919658483991838741/1088905923214442617/6999295.webp);
+  --ocean-home-icon: url(https://cdn.discordapp.com/attachments/919658483991838741/1088906771684413481/IMG_20211024_002834.webp);
+}
