@@ -29,7 +29,7 @@
 
 
 .preview-3SR4Rd {
-    color: white;
+    color: red;
 }
 
 .withTagAsButton-OsgQ9L:hover, 
@@ -37,7 +37,7 @@
   background-color: rgba(0, 0, 0, .3);
   border-radius: 4px;
   border: 1px solid #912;
-  color: white;
+  color: red;
 }
 
 .previewContainer-1GxmBJ {
@@ -118,7 +118,7 @@
 }
 
 .colorDefault-2_rLdz {
-    color: white;
+    color: red;
     border-color: transparent;
 }
 
@@ -137,7 +137,7 @@
 
 .lookOutlined-3yKVGo.colorBrand-I6CyqQ {
     border-color: transparent;
-    color: white;
+    color: red;
     background-image: -webkit-radial-gradient(50% 50%, ellipse cover, rgb(17, 136, 238, .6) 30%, rgba(0, 0, 0, .6) 80%);
     background-color: transparent !important;
 }
